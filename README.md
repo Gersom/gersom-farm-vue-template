@@ -1,4 +1,4 @@
-# 🌾 Farm + Vue Template
+# <img src="https://avatars.githubusercontent.com/u/108205785?s=200&v=4" alt="Farm logo" width="50" height="50"> Farm + Vue Template
 
 This project is a template for building web applications using Farm and Vue.js.
 
@@ -10,7 +10,7 @@ Learn more about Farm at [https://www.farmfe.org/](https://www.farmfe.org/)
 
 ## 📋 Project Details
 
-- **Name**: 🌾 Farm + Vue Template
+- **Name**: <img src="https://avatars.githubusercontent.com/u/108205785?s=200&v=4" alt="Farm logo" width="25" height="25"> Farm + Vue Template
 - **Author**: 👨‍💻 Gersom
 - **GitHub**: 🔗 [https://github.com/Gersom/gersom-farm-vue-templat](https://github.com/Gersom/gersom-farm-vue-templat)
 - **Vue Version**: 💚 3.4.0
@@ -60,8 +60,8 @@ src/
 ## 📦 Dependencies
 
 - 💚 Vue.js (v3.4.0)
-- 🌾 Farm CLI (v1.0.2)
-- 🌾 Farm Core (v1.2.4)
+- <img src="https://avatars.githubusercontent.com/u/108205785?s=200&v=4" alt="Farm logo" width="25" height="25"> Farm CLI (v1.0.2)
+- <img src="https://avatars.githubusercontent.com/u/108205785?s=200&v=4" alt="Farm logo" width="25" height="25"> Farm Core (v1.2.4)
 - 🔧 Vite Plugin Vue (v5.0.4)
 - 🧰 Core-js (v3.30.1)
 
