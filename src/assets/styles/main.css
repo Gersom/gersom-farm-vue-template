@@ -1,0 +1,38 @@
+/* Base styles */
+@import './base/reset.css';
+@import './base/variables.css';
+
+/* Global styles */
+@import './global.css';
+
+/* Utility classes */
+@import './utilities.css';
+
+/* Additional global styles can be added here */
+
+body {
+    font-family: var(--font-family-base);
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+.container {
+    max-width: var(--container-max-width);
+    margin: 0 auto;
+    padding: 0 var(--spacing-medium);
+}
+
+/* You can add more global styles here as needed */
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    /* Styles for tablets and mobile devices */
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* Styles for small desktops */
+}
+
+@media (min-width: 1025px) {
+    /* Styles for large desktops */
+}
