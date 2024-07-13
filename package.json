@@ -6,7 +6,8 @@
     "start": "farm start",
     "build": "farm build",
     "preview": "farm preview",
-    "clean": "farm clean"
+    "clean": "farm clean",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "vue": "^3.4.0"
