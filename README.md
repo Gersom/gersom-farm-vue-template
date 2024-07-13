@@ -1,37 +1,78 @@
-# Farm + Vue
+# 🌾 Farm + Vue Template
 
-This template should help you start developing using Vue and TypeScript in Farm.
+This project is a template for building web applications using Farm and Vue.js.
 
-## Setup
+## 🚀 About Farm
 
-Install the dependencies:
+Farm is a Rust-Based Web Building Engine designed to facilitate your web program and JavaScript library development. It provides a fast and efficient build process for modern web applications.
 
-```bash
-pnpm install
+Learn more about Farm at [https://www.farmfe.org/](https://www.farmfe.org/)
+
+## 📋 Project Details
+
+- **Name**: 🌾 Farm + Vue Template
+- **Author**: 👨‍💻 Gersom
+- **GitHub**: 🔗 [https://github.com/Gersom/gersom-farm-vue-templat](https://github.com/Gersom/gersom-farm-vue-templat)
+- **Vue Version**: 💚 3.4.0
+
+## 📁 Project Structure
+
+```
+src/
+├── assets/
+│   ├── images/
+│   └── styles/
+│       ├── base/
+│       │   ├── reset.css
+│       │   ├── variables.css
+│       │   ├── global.css
+│       │   ├── main.css
+│       │   └── utilities.css
+│       └── components/
+├── App.vue
+├── main.js
+├── .gitignore
+├── README.md
+├── bun.lockb
+├── farm.config.js
+└── index.html
 ```
 
-## Get Started
+## 🚦 Getting Started
 
-Start the dev server:
+1. Clone this repository
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Run the development server:
+   ```
+   npm run dev
+   ```
 
-```bash
-pnpm start
-```
+## 📜 Available Scripts
 
-Build the app for production:
+- `npm run dev` or `npm start`: 🏃‍♂️ Start the development server
+- `npm run build`: 🏗️ Build the project for production
+- `npm run preview`: 👀 Preview the production build
+- `npm run clean`: 🧹 Clean the build artifacts
 
-```bash
-pnpm build
-```
+## 📦 Dependencies
 
-Preview the Production build product:
+- 💚 Vue.js (v3.4.0)
+- 🌾 Farm CLI (v1.0.2)
+- 🌾 Farm Core (v1.2.4)
+- 🔧 Vite Plugin Vue (v5.0.4)
+- 🧰 Core-js (v3.30.1)
 
-```bash
-pnpm preview
-```
+## 📄 License
 
-Clear persistent cache local files
+[Add your license information here]
 
-```bash
-pnpm clean
-```
+## 🤝 Contributing
+
+[Add contribution guidelines here]
+
+## 💬 Support
+
+[Add support information here]
